@@ -18,3 +18,4 @@ We are big fans of:
 -	[Clean code](https://www.google.com/search?q=clean+code)
 -	[Clean architecture](https://www.google.com/search?q=clean+architecture)
 -	[Naked object design pattern](https://en.wikipedia.org/wiki/Naked_objects)
+-	[Write once, run on multiple platforms](https://www.codenameone.com/blog/top-10-best-cross-platform-app-development-frameworks-in-2021.html)
