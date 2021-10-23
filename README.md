@@ -6,7 +6,7 @@ We believe that code should be:
 -	Easy to change, extend, and maintain
 
 As a consequence we believe that:
--	The domain layer should have our primary focus.
+-	The domain layer should have our primary focus, where attributes and behaviour are captured in domain objects.
 -	The domain layer should have no direct dependencies with specific technologies such as frameworks, user interfaces, web services or databases, so that:
   - The domain layer is not soiled with outer layer concerns
   - The domain layer is easy to test
