@@ -1,19 +1,21 @@
 # Domain Centric
 
-We believe that code should be:
+Believing that code should be:
 -	Easy to read
 -	Easy to understand
 -	Easy to change, extend, and maintain
 
-As a consequence we believe that:
--	The domain layer should have our primary focus, where attributes and behaviour are captured in domain objects.
+As a consequence believing that:
+-   Layering helps to distinguish and distribute the responsibilities of your application
+-	Attributes and behaviour are captured in domain objects in the domain layer. This is the center and most important part of our application.
 -	The domain layer should have no direct dependencies with specific technologies such as frameworks, user interfaces, web services or databases, so that:
-    - The domain layer is not soiled with outer layer concerns
+    - The domain layer is not soiled with outer layer responsibilities
     - The domain layer is easy to test
-    - The technology is relatively easy to swap out with a different technology.
+    - The technology in the outside layers are relatively easy to change out with a different technology.
 -	Frameworks and code generation are good tools to use in the outside layers such as the user interface layer and the infrastructure layer.
 
-We are big fans of:
+Being big fans of:
+-   [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 -	[Domain driven design](https://www.google.com/search?q=domain+driven+design)
 -	[Clean code](https://www.google.com/search?q=clean+code)
 -	[Clean architecture](https://www.google.com/search?q=clean+architecture)
