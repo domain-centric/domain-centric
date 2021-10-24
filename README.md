@@ -8,7 +8,7 @@ Believing that code should be:
 <br>
 
 As a consequence believing that:
--   Layering helps to distinguish and distribute the responsibilities of your application
+-   Layering helps to distinguish and distribute the responsibilities of our application
 -	Attributes and behaviour are captured in domain objects in the domain layer. This is the center and most important part of our application.
 -	The domain layer should have no direct dependencies with specific technologies such as frameworks, user interfaces, web services or databases, so that:
     - The domain layer is not soiled with outer layer responsibilities
