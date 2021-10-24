@@ -5,6 +5,7 @@ Believing that code should be:
 -	Easy to understand
 -	Easy to change, extend, and maintain
 
+---
 
 As a consequence believing that:
 -   Layering helps to distinguish and distribute the responsibilities of your application
@@ -15,6 +16,7 @@ As a consequence believing that:
     - The technology in the outside layers are relatively easy to change out with a different technology.
 -	Frameworks and code generation are good tools to use in the outside layers such as the user interface layer and the infrastructure layer.
 
+---
 
 Being big fans of:
 -   [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
