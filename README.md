@@ -5,6 +5,7 @@ Believing that code should be:
 -	Easy to understand
 -	Easy to change, extend, and maintain
 
+
 As a consequence believing that:
 -   Layering helps to distinguish and distribute the responsibilities of your application
 -	Attributes and behaviour are captured in domain objects in the domain layer. This is the center and most important part of our application.
@@ -13,6 +14,7 @@ As a consequence believing that:
     - The domain layer is easy to test
     - The technology in the outside layers are relatively easy to change out with a different technology.
 -	Frameworks and code generation are good tools to use in the outside layers such as the user interface layer and the infrastructure layer.
+
 
 Being big fans of:
 -   [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
