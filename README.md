@@ -1,4 +1,4 @@
-[!(https://img.shields.io/badge/-Domain%20Centric-blue)](https://github.com/domain-centric)
+[![Domain Centric](https://img.shields.io/badge/-Domain%20Centric-blue)](https://github.com/domain-centric)
 
 # Domain Centric
 
